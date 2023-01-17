@@ -1,8 +1,6 @@
 # 포도마켓
 ## django 기반 당근마켓 클론
 
-http://chewy.pythonanywhere.com --python anywhere 3개월 무료라 만료됬을 수도 있음
-
 ## 빌드하는 법
 ```python
 python3 manage.py runserver
